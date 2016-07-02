@@ -1,1 +1,4 @@
-# This is repository is used to learn GIT
+This is repository is used to learn GIT
+===========================================
+
+## It is using git-it
